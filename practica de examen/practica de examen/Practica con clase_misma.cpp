@@ -7,7 +7,7 @@ int cantidad_descuento = 0;
 
 
 int main() {
-
+    cout << "hola mundo";
  
     return 0;
 }
